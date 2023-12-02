@@ -10,5 +10,5 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Intrusion_Detection_System {
-    
+
 }
