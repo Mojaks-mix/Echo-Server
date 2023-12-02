@@ -1,2 +1,2 @@
-# Echo-Server
-This project will be configuring echo-server in Java.
+# IDS
+This project will be configuring an IDS in Java.
